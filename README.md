@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1773-count-items-matching-a-rule](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1929-concatenation-of-array](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Simulation
 |  |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## String
+|  |
+| ------- |
+| [1773-count-items-matching-a-rule](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 <!---LeetCode Topics End-->
