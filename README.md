@@ -87,10 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [1773-count-items-matching-a-rule](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 ## Two Pointers
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
 |  |
