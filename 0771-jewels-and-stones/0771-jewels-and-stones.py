@@ -5,6 +5,4 @@ class Solution:
             for ch in stones:
                 if i==ch:
                     count+=1
-                # else:
-                #     count=0
         return count
