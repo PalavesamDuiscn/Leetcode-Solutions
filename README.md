@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0367-valid-perfect-square](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0709-to-lower-case](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
