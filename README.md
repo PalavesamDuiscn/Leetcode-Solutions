@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0367-valid-perfect-square](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0877-stone-game](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
