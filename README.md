@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1512-number-of-good-pairs](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
+| [1672-richest-customer-wealth](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1773-count-items-matching-a-rule](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1929-concatenation-of-array](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -112,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/2574-left-and-right-sum-differences) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
