@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
