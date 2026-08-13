@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0877-stone-game) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0771-jewels-and-stones](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
