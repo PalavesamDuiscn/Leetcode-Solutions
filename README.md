@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1436-destination-city) |
+| [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
