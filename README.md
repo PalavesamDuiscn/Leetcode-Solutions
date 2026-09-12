@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1389-create-target-array-in-the-given-order](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1436-destination-city](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1436-destination-city) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1512-number-of-good-pairs](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0771-jewels-and-stones](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1436-destination-city](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0709-to-lower-case](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
+| [1436-destination-city](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1436-destination-city) |
 | [1773-count-items-matching-a-rule](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Two Pointers
