@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
