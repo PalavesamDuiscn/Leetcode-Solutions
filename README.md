@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1436-destination-city](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1436-destination-city) |
 | [1773-count-items-matching-a-rule](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3110-score-of-a-string](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/3110-score-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
