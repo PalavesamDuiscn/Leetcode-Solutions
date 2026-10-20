@@ -1,4 +1,4 @@
-select t.id 
-from  Weather t join Weather y
-on  t.recordDate=date_add(y.recordDate,interval 1 day)
+select t.id
+from weather t join weather y
+on datediff(t.recordDate ,y.recordDate )=1
 where t.temperature>y.temperature;
