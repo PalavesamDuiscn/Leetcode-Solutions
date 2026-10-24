@@ -1,5 +1,5 @@
 select employee_id,department_id
-from Employee
+from Employee 
 where primary_flag='Y'
 
 union
