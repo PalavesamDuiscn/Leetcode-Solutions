@@ -21,11 +21,9 @@ class Solution:
                     left += 1
                     right -= 1
 
-                    # Skip duplicate left values
                     while left < right and nums[left] == nums[left - 1]:
                         left += 1
 
-                    # Skip duplicate right values
                     while left < right and nums[right] == nums[right + 1]:
                         right -= 1
 
