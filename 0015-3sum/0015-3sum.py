@@ -6,7 +6,6 @@ class Solution:
         n = len(nums)
 
         for i in range(n - 2):
-            # Skip duplicate first numbers
             if i > 0 and nums[i] == nums[i - 1]:
                 continue
 
