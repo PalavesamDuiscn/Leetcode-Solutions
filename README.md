@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0877-stone-game) |
 ## Hash Table
