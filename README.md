@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0137-single-number-ii) |
 ## Newton's Method
 |  |
 | ------- |
