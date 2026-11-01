@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Monotonic Stack
