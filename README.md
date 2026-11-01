@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0137-single-number-ii) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0079-word-search) |
 | [1672-richest-customer-wealth](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Heap (Priority Queue)
 |  |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0079-word-search) |
 ## String Matching
 |  |
 | ------- |
@@ -359,4 +363,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
