@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0792-number-of-matching-subsequences](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0792-number-of-matching-subsequences) |
+| [0819-most-common-word](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [0877-stone-game](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0792-number-of-matching-subsequences](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0792-number-of-matching-subsequences) |
+| [0819-most-common-word](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0819-most-common-word](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [1512-number-of-good-pairs](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -201,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
 | [0792-number-of-matching-subsequences](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0792-number-of-matching-subsequences) |
+| [0819-most-common-word](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0819-most-common-word) |
 | [1436-destination-city](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1436-destination-city) |
 | [1773-count-items-matching-a-rule](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
