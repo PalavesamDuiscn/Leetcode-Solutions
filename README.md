@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [0792-number-of-matching-subsequences](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0877-stone-game](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [0792-number-of-matching-subsequences](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0792-number-of-matching-subsequences) |
 | [1539-kth-missing-positive-number](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [0792-number-of-matching-subsequences](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0877-stone-game](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
+| [0792-number-of-matching-subsequences](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0792-number-of-matching-subsequences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1436-destination-city](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
@@ -121,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0792-number-of-matching-subsequences](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0792-number-of-matching-subsequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -195,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0434-number-of-segments-in-a-string) |
 | [0709-to-lower-case](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0771-jewels-and-stones) |
+| [0792-number-of-matching-subsequences](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0792-number-of-matching-subsequences) |
 | [1436-destination-city](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1436-destination-city) |
 | [1773-count-items-matching-a-rule](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -329,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0139-word-break) |
+| [0792-number-of-matching-subsequences](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0792-number-of-matching-subsequences) |
 ## Greedy
 |  |
 | ------- |
