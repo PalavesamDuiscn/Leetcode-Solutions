@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
+| [0072-edit-distance](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/PalavesamDuiscn/Leetcode-Solutions/tree/master/0139-word-break) |
